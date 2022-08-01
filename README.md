@@ -9,7 +9,7 @@ Steps To Use This Bot :
 
 `4`. Enjoy 
 
-Bot Make By : [ProMan#3957](https://discord.com/users/780052200822276138) , [ProMan#1101](https://discord.com/users/948550585743978537)
+Bot Made By : [ProMan#3957](https://discord.com/users/780052200822276138) , [ProMan#1101](https://discord.com/users/948550585743978537)
 
 Tools Server : 
 
